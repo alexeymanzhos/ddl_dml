@@ -26,13 +26,13 @@
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
-![alt text](https://github.com.alexeymanzhos/ddl_dml/blob/main/img/users.jpg)
+![alt text](https://github.com/alexeymanzhos/ddl_dml/blob/main/img/users.jpg)
 
 1.4. Дайте все права для пользователя sys_temp. 
 
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
-![alt text](https://github.com/alexeymanzhos/ddl_dml/blob/main/img/priv_sys_temp/jpg)
+![alt text](https://github.com/alexeymanzhos/ddl_dml/blob/main/img/priv_sys_temp.jpg)
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
@@ -78,6 +78,6 @@ mysql> SHOW TABLES;
 Название таблицы | Название первичного ключа
 customer         | customer_id
 ```
-![alt text](https://github.com/alexeymanzhos/ddl_dml/blob/main/img/2_tanles.png)
+![alt text](https://github.com/alexeymanzhos/ddl_dml/blob/main/img/2_tables.png)
 
 
